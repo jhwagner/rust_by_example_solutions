@@ -1,0 +1,6 @@
+[package]
+name = "rust_by_example_solutions"
+version = "0.1.0"
+authors = ["Joshua Wagner <joshua.wagner@outlook.com>"]
+
+[dependencies]

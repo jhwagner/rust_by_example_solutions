@@ -1,0 +1,5 @@
+# Cargo generated files
+target
+
+# Editor generated files
+*.swp
